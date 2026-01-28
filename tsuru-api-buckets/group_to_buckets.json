@@ -1,0 +1,11 @@
+{
+    "groups_by_name": {
+      "s3-access-team-alpha": ["bucket-alpha-prod", "bucket-alpha-dev"],
+      "s3-access-team-beta": ["bucket-beta-prod"]
+    },
+    "groups_by_id": {
+      "11111111-2222-3333-4444-555555555555": ["bucket-from-id-1"]
+    },
+    "default": []
+  }
+  
